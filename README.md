@@ -10,13 +10,13 @@ I interested a record. record make supervise, supervise make improvement.
 
 <div>
   <a href="https://dwblog.netlify.com/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/128/609/609803.png" style="max-width:100%; height:50px">
+    <img src="https://image.flaticon.com/icons/png/128/609/609803.png" style="width:50px; height:50px">
   </a>
   <a href="https://github.com/gimdongwon" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/128/270/270798.png" style="max-width:100%; height:50px">
+    <img src="https://image.flaticon.com/icons/png/128/270/270798.png" style="width:50px; height:50px">
   </a>
   <a href="https://medium.com/@ehddnjs8989" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/128/2504/2504925.png" style="max-width:100%; height:50px">
+    <img src="https://image.flaticon.com/icons/png/128/2504/2504925.png" style="width:50px; height:50px">
   </a>
 </div>
 
