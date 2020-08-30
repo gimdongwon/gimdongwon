@@ -9,8 +9,14 @@ I interested a record. record make supervise, supervise make improvement.
 <br>
 
 <div>
-  <a href="https://medium.com/@ehddnjs8989" target="_black">
-    <img src="https://image.flaticon.com/icons/png/128/270/270798.png" style="height=50px;">
+  <a href="https://dwblog.netlify.com/" target="_blank">
+    <img src="https://image.flaticon.com/icons/png/128/609/609803.png" style="height: 50px;">
+  </a>
+  <a href="https://github.com/gimdongwon" target="_blank">
+    <img src="https://image.flaticon.com/icons/png/128/270/270798.png" style="height:50px;">
+  </a>
+  <a href="https://medium.com/@ehddnjs8989" target="_blank">
+    <img src="https://image.flaticon.com/icons/png/128/2504/2504925.png" style="height:50px;">
   </a>
 </div>
 
