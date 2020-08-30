@@ -9,8 +9,8 @@ I interested a record. record make supervise, supervise make improvement.
 <br>
 
 <div>
-  <a href="https://medium.com/@ehddnjs8989" target="_black" sytle="height=200px; width=200px;">
-    <img src="https://miro.medium.com/fit/c/256/256/1*6_fgYnisCa9V21mymySIvA.png">
+  <a href="https://medium.com/@ehddnjs8989" target="_black">
+    <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-medium-5.png">
   </a>
 </div>
 
