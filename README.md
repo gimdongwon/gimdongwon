@@ -10,7 +10,7 @@ I interested a record. record make supervise, supervise make improvement.
 
 <div>
   <a href="https://medium.com/@ehddnjs8989" target="_black">
-    <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-medium-3.png" style="height=50px;">
+    <img src="https://image.flaticon.com/icons/png/128/270/270798.png" style="height=50px;">
   </a>
 </div>
 
