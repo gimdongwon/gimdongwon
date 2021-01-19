@@ -22,6 +22,9 @@ I interested a record. record make supervise, supervise make improvement.
   <a href="https://medium.com/@ehddnjs8989" target="_blank">
     <img src="https://image.flaticon.com/icons/png/128/2504/2504925.png" height="50px">
   </a>
+  <a href="https://dongwon.oopy.io/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/notion-1693557-1442598.png">
+  </a>
 </div>
 
 Today / All visiter count
