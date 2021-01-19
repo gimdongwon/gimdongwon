@@ -23,7 +23,7 @@ I interested a record. record make supervise, supervise make improvement.
     <img src="https://image.flaticon.com/icons/png/128/2504/2504925.png" height="50px">
   </a>
   <a href="https://dongwon.oopy.io/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/notion-1693557-1442598.png" height="50px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="50px">
   </a>
 </div>
 
