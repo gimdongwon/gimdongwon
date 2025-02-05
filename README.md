@@ -1,26 +1,18 @@
 HI I'm **Dongwon Kim. 😉**
 
-I'm Front-end Developer in Interpark.
-
-My favorite famous saying is **I can do this all day** by Captine America.
-
-He has a strong body and faith, so He make a new world. 
-
-I will be like a him.
-
-I interested a record. record make supervise, supervise make improvement.
+I interested **a record. record make supervise, supervise make improvement**
 
 <br>
 
 <div>
   <a href="https://dwblog.netlify.com/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/128/609/609803.png" height="50px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh9lNwRtPjVBc6YIQzocUY9PaO30H9kpM0Nw&s" height="50px">
   </a>
   <a href="https://github.com/gimdongwon" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/128/270/270798.png" height="50px">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="50px">
   </a>
   <a href="https://medium.com/@ehddnjs8989" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/128/2504/2504925.png" height="50px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEelmnv7lh5KotTcteNu15v5ixDDQVr3XTA&s" height="50px">
   </a>
   <a href="https://dongwon.oopy.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="50px">
